@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengatesan2997&label=Profile%20views&color=0e75b6&style=flat" alt="vengatesan2997" /> </p>
 
 - 🔭 I’m currently working on [PhonePe Pulse Data Visualization](https://github.com/Vengatesan2997/PhonePe-Pulse-Data-Visualization) 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 I’m currently learning **DataScience and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on [YouTube Data Harvesting and Warehousing](https://github.com/Vengatesan2997/Capstone-Project---Guvi-)
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 
 - 💬 Ask me about **Python SQL MongoDB and Machine Learning**
