@@ -1,7 +1,5 @@
 # Vengatesan K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vengatesan-k&label=Profile%20views&color=0e75b6&style=flat" alt="vengatesan-k" /> </p>
-
 - 🔭 I’m currently working on [PhonePe Pulse Data Visualization](https://github.com/Vengatesan2997/PhonePe-Pulse-Data-Visualization) 
 - 🌱 I’m currently learning **DataScience**
 
