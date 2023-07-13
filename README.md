@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [PhonePe Pulse Data Visualization](https://github.com/Vengatesan2997/PhonePe-Pulse-Data-Visualization) 
 - 🌱 I’m currently learning **DataScience**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👀 I’m looking to collaborate on **Machine Learning Projects**
 - 💬 Ask me about **Python SQL MongoDB and Machine Learning**
 - 📫 How to reach me **kannanvenkatesh772@gmail.com**
 <h3 align="left">Connect with me:</h3>
