@@ -1,5 +1,5 @@
 # Vengatesan K
-[![MasterHead](https://github.com/Vengatesan-K/Portfolio/assets/128688827/a01e3f27-4263-4f94-b886-b94863557cd3)
+
 - 🔭 I’m currently working on [PhonePe Pulse Data Visualization](https://github.com/Vengatesan2997/PhonePe-Pulse-Data-Visualization) 
 - 🌱 I’m currently learning **DataScience**
 
