@@ -1,6 +1,4 @@
-# Vengatesan K
-
-![InShot_20230819_224316518](https://github.com/Vengatesan-K/Stock-Price-Analysis-Yfinance/assets/128688827/5f543a7e-8b2e-4e1b-a8db-95d978494f0e)
+# Vengatesan k
 
 
 - 🔭 I’m currently working on [PhonePe Pulse Data Visualization](https://github.com/Vengatesan2997/PhonePe-Pulse-Data-Visualization) 
