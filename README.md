@@ -8,7 +8,7 @@
 - 💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
 <img align="right" alt="coding" width="370" height="220" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
 
-- 📫 How to reach me **💼@Vengatesan2612**
+- 📫 How to reach me **ʟɪɴᴋᴇᴅɪɴ-@Vengatesan2612**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
