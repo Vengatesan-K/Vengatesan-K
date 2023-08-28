@@ -6,8 +6,9 @@
 
 - 👀 Seeking opportunities to collaborate on projects involving **Data science and Data analysis.**
 - 💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
+<img align="right" alt="coding" width="400" height="250" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
 - 📫 How to reach me **💼@Vengatesan2612**
-<img align="right" alt="coding" width="350" height="200" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/vengatesan@2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vengatesan@2997" height="30" width="40" /></a>
