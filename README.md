@@ -1,5 +1,6 @@
-![Black Green Modern Digital Marketing Open to Work LinkedIn Banner](https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing/assets/128688827/5d267ee2-a183-49f7-8979-2777902fde0b)
 
+
+![Black Green Modern Digital Marketing Open to Work LinkedIn Banner (6)](https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing/assets/128688827/86b8f303-5ff1-404f-90e0-53d1a9d08dd9)
 
 
 - 👨🏻‍💻 I'm currently working on predicting future outcomes using current trends and converting complex issues into actionable insights. 
