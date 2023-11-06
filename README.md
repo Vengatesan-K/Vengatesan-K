@@ -3,18 +3,18 @@
 ![Black Green Modern Digital Marketing Open to Work LinkedIn Banner (6)](https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing/assets/128688827/86b8f303-5ff1-404f-90e0-53d1a9d08dd9)
 
 
-★ 👨🏻‍💻 Currently working on predicting future outcomes using current trends and converting complex issues into actionable insights. 
+ 👨🏻‍💻 Currently working on predicting future outcomes using current trends and converting complex issues into actionable insights. 
 
-★ 📖 Learning about **Machine Learning** and using it to forecast predictions.
+ 📖 Learning about **Machine Learning** and using it to forecast predictions.
 
-★ 👀 Seeking opportunities to collaborate on projects involving **Data science and Data analysis.**
+ 👀 Seeking opportunities to collaborate on projects involving **Data science and Data analysis.**
 
 
-★ 💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
+ 💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
 
 <img align="right" alt="coding" width="370" height="220" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
 
-★ 📫 How to reach me **📧Vengatesan26@yahoo.com**
+ 📫 How to reach me **📧Vengatesan26@yahoo.com**
 
 ## Connect with me :</h3>
 <p align="left">
