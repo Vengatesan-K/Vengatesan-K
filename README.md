@@ -9,8 +9,6 @@
 - 👀 Seeking opportunities to collaborate on projects involving **Data science and Data analysis.**
 - 💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
 
-
-# My Gif
 <img align="right" alt="coding" width="370" height="220" src="https://github.com/Vengatesan-K/Vengatesan-K/blob/main/InShot_20231106_133747027.gif">
 
 - 📫 How to reach me **📧Vengatesan26@yahoo.com**
