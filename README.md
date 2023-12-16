@@ -12,7 +12,7 @@
 
  💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
 
-<img align="right" alt="coding" width="370" height="220" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
+<img align="right" alt="coding" width="370" height="220" src="https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing/assets/128688827/fca09378-b263-419a-a633-162d70012e77">
 
  📫 How to reach me **📧Vengatesan26@yahoo.com**
 
