@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 🌟
 
-![Black Green Modern Digital Marketing Open to Work LinkedIn Banner (6)](https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing/assets/128688827/86b8f303-5ff1-404f-90e0-53d1a9d08dd9)
+![Black Green Modern Digital Marketing Open to Work LinkedIn Banner (6)](https://github.com/Vengatesan-K/Smart-Predictive-Modeling-for-Rental-Property-Prices/assets/128688827/4a8b9931-eb9d-4f2b-9d0a-44902e828314)
 
 
  👨🏻‍💻 Currently working on predicting future outcomes using current trends and converting complex issues into actionable insights. 
